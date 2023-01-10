@@ -1,3 +1,4 @@
-if(1) {
-//$url->forceScheme('https'); // 追加
+$a = 1;
+if($a) {
+	$url->forceScheme('https');
 }
