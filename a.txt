@@ -1,1 +1,3 @@
+if(1) {
 $url->forceScheme('https'); // 追加
+}
